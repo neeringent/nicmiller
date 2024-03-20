@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>Hello! I'm excited to share information about myself.</p>
+        <h2>My Interests</h2>
+        <p>I enjoy coding, reading, and spending time outdoors.</p>
+        <h2>Contact Me</h2>
+        <p>You can reach me at example@email.com</p>
+    </div>
+</body>
+</html>
